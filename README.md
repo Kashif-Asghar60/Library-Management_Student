@@ -1,43 +1,38 @@
 # 📚 Library Management System - Student Side  
 
-This is the **Student Side** of the Library Management System, designed to provide students with an intuitive and efficient way to manage their library activities. With this system, students can browse books, manage their leases, and receive timely notifications.  
+Welcome to the **Library Management System - Student Side**! This system empowers students to explore the library's collection, borrow and return books, manage their profile, and stay updated with notifications for overdue books and return reminders.  
 
 ---
 
 ## **Features**  
 
-### 1. **Profile Management**  
-- 📋 **View Profile:**  
-  Students can view and update their personal information, such as name and email.  
+### 1️⃣ **👤 View Profile**  
+- View and update personal information (name, email, etc.).  
 
-### 2. **Book Management**  
-- 📚 **Browse Books:**  
-  Students can explore all available books in the library system.  
-- 🔍 **Search Books:**  
-  Search by name, author, or ISBN to find specific books easily.  
-- 📖 **View Book Details:**  
-  View detailed information about books, including descriptions, ISBN, and authors.  
-- 🔄 **Borrow and Return Books:**  
-  Borrow available books and mark them as returned after use.  
+### 2️⃣ **📖 Book Management**  
+- 📚 Browse available books in the library system.  
+- 🔍 Search books by name, author, or ISBN.  
+- 📝 View detailed information about each book (description, ISBN, author, etc.).  
+- 📥 Borrow books if available and track their status.  
+- 📤 Mark books as returned once finished.  
 
-### 3. **Lease Management**  
-- 📂 **Track Borrowed Books:**  
-  View the list of borrowed books along with due dates.  
-- 🔔 **Notifications:**  
-  Receive reminders for overdue books or upcoming return deadlines.  
+### 3️⃣ **📅 Lease Management**  
+- 📜 View a list of borrowed books and their return deadlines.  
+- 🔔 Stay updated with notifications for overdue books or upcoming deadlines.  
 
-### 4. **Notifications**  
-- 🚨 **Stay Updated:**  
-  Get notified about overdue books and reminders to return borrowed books on time.  
+### 4️⃣ **🔔 Notifications**  
+- 🕒 Receive reminders for overdue books.  
+- ⏰ Get notified of upcoming return deadlines.  
 
 ---
 
-## **Video Demo**  
-🎥 [Watch the full demo on YouTube](https://youtu.be/v2aZmt1Eu8w)  
+### **Video Demo**  
+🎥 **Watch the Student Side in Action:**  
+[![Library Management System - Student Side](https://img.youtube.com/vi/v2aZmt1Eu8w/0.jpg)](https://youtu.be/v2aZmt1Eu8w)  
 
 ---
 
-## **Technologies Used**  
+### **Technologies Used**  
 - **Frontend:** React Native  
 - **Backend:** Laravel (API-based architecture)  
 - **Database:** MariaDB  
